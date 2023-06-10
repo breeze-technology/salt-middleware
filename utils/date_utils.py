@@ -1,5 +1,4 @@
 from datetime import datetime
-from main import app
 import pytz
 
 class DateUtils:
